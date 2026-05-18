@@ -6,7 +6,7 @@ import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/com
 import Image from "next/image"
 
 export default function Home() {
-  const WA_MAYORISTA = "https://wa.me/5491127871523?text=Hola%20GoBio%20%F0%9F%8C%B1%20Soy%20comprador%20mayorista.%20Necesito%20asesoramiento%20y%20lista%20de%20precios.";
+  const WA_MAYORISTA = "https://wa.me/5491150073269?text=Hola%20GoBio%20%F0%9F%8C%B1%20Soy%20comprador%20mayorista.%20Necesito%20asesoramiento%20y%20lista%20de%20precios.";
   const WA_MINORISTA = "https://wa.me/5491127738283?text=Hola%20GoBio%20%F0%9F%8C%B1%20Quiero%20comprar%20por%20su%20tienda%20online%20y%20necesito%20ayuda.";
 
   return (
